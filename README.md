@@ -9,7 +9,7 @@ My&nbsp;name is&nbsp;Bhavesh. I&rsquo;m a&nbsp;frontend developer from India.<br
 ###### Glad to see you here :heart:
 
 🎓 **2024 BE Graduate in Computer Engineering**  
-💻 **Former Full Stack Java Developer Intern at <a href="https://www.tnsindiafoundation.com/">Tnsindiafoundation Inc.</a>**     
+💻 **Former Full Stack Java Developer Intern at TNS India Foundation**     
 🌱 **Passionate about building efficient software solutions and exploring new technologies.**      
 🖇 **Let's connect on <a href="https://www.linkedin.com/in/bhavesh-wani-886369238/">LinkedIn</a>**  
 
